@@ -14,6 +14,7 @@ public class browser {
 		driver.get("https://www.google.com/");
 		driver.get("this is add column");
 		driver.get("this is gitaddx1 column");
+		driver.get("this is deccccc");
 	}
 	
 	@Test
@@ -24,6 +25,7 @@ public class browser {
 		driver.get("https://www.google.com/");
 		driver.get("this is add column");
 		driver.get("this is gitaddx1 column");
+		driver.get("this is deccccc");
 	}
 
 }
