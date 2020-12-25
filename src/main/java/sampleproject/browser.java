@@ -13,6 +13,7 @@ public class browser {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
 		driver.get("this is add column");
+		driver.get("this is gitaddx1 column");
 	}
 	
 	@Test
@@ -22,6 +23,7 @@ public class browser {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
 		driver.get("this is add column");
+		driver.get("this is gitaddx1 column");
 	}
 
 }
