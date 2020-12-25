@@ -10,8 +10,7 @@ public class sam {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\krishnamoorthy\\Documents\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
-		driver.get("this is add column");
-		driver.get("this is develop column");
+	
 	}
 
 }
